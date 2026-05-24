@@ -13,7 +13,7 @@
 
 ### 📸 Vista Previa del Sitio (Mockup)
 
-![Vista previa de Altura Café](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80)  
+![Vista previa de Altura Café](./img/lading-cafeteria-AltoCafe.png)  
 *Nota: Puedes reemplazar este enlace de imagen por una captura de pantalla real de tu proyecto guardada en una carpeta como `img/screenshot.png`.*
 
 ---
