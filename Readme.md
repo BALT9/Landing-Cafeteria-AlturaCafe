@@ -8,7 +8,7 @@
 
 ¡Puedes ver el proyecto en acción y explorar su diseño interactivo ahora mismo!
 
-*   **🌐 Demo en Vivo:** [Visita la página web aquí](https://tu-usuario.github.io/altura-cafe/) *(Reemplaza con tu enlace de GitHub Pages, Vercel o Netlify)*
+*   **🌐 Demo en Vivo:** [Visita la página web aquí](https://balt9.github.io/Landing-Cafeteria-AlturaCafe/) *(Reemplaza con tu enlace de GitHub Pages, Vercel o Netlify)*
 *   **📱 Soporte multidispositivo:** Totalmente optimizado para smartphones, tablets y computadoras de escritorio.
 
 ### 📸 Vista Previa del Sitio (Mockup)
